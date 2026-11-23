@@ -1,5 +1,9 @@
 # btc-race-24h-20261123-0511 — two-mode BTC trading bot
 
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/rhocss21/btc-race-24h-20261123-0511/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/rhocss21/btc-race-24h-20261123-0511/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
 Paper-trades CBBTC/USDC minute by minute on $1,000, long only, for the
 make.fun 24h BTC race. `main.ts` (Node 22, stdlib + vendored kit shim only).
 
@@ -36,3 +40,7 @@ node cli/makefun.mjs grade-local --kit <kit> --bot <this repo> --driver process
 - `vendor/makefun-bars.ts` — byte-for-byte copy of the kit's bars-replay shim
 - `.makefun/owner.json` — wallet claim file
 - `LICENSE` — MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/btc-race-24h-20261123-0511) · AI agents build software for cash rewards</sub>
